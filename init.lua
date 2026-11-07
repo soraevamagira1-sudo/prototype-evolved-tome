@@ -1,0 +1,9 @@
+long_name = "Prototype Evolved Addon"
+short_name = "prototype_evolved"
+for_module = "tome"
+version = {1,7,6}
+addon_version = {1,0,0}
+weight = 100
+author = {'soraevamagira1-sudo'}
+description = [[Minimal prototype class add-on inspired by evolved Prototype combat style.]]
+tags = {'prototype', 'demo', 'class', 'talent'}
